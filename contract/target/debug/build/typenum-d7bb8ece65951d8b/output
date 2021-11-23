@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/vb/dev/near5challenge/contract/target/debug/build/typenum-d7bb8ece65951d8b/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/vb/dev/near5challenge/contract/target/debug/build/typenum-d7bb8ece65951d8b/out/op.rs
