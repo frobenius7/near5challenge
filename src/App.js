@@ -84,7 +84,7 @@ export default function App() {
                     receiver_id: window.accountId,
                     token_id: `${Math.floor(Math.random() * 10)}`,
                     metadata: {
-                      title: 'Christmass rabbit',
+                      title: 'Exclusive NearMan',
                       media: IMAGE_LINK,
                       copies: 1
                     }

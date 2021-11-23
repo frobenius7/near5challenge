@@ -70,7 +70,7 @@ impl Contract {
             owner_id,
             NFTMetadata {
                 spec: "nft-1.0.0".to_string(),
-                name: "NFT Tutorial Contract".to_string(),
+                name: "NearMan Exclusive Series by Vetal".to_string(),
                 symbol: "GOTEAM".to_string(),
                 icon: None,
                 base_uri: None,
