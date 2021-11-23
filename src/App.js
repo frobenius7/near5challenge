@@ -82,7 +82,7 @@ export default function App() {
                 await window.contract.nft_mint(
                   {
                     receiver_id: window.accountId,
-                    token_id: ${Date.now()}${currentUser.accountId}${Math.floor(Math.random() * 10)},
+                    token_id: '${Date.now()}${currentUser.accountId}${Math.floor(Math.random() * 10)}',
                     metadata: {
                       title: 'Exclusive NearMan',
                       media: IMAGE_LINK,
