@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/vb/dev/near5challenge/contract/target/wasm32-unknown-unknown/release/build/typenum-dcc089a3467441e6/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/vb/dev/near5challenge/contract/target/wasm32-unknown-unknown/release/build/typenum-dcc089a3467441e6/out/op.rs

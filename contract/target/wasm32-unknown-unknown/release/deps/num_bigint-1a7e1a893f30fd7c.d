@@ -1,0 +1,15 @@
+/Users/vb/dev/near5challenge/contract/target/wasm32-unknown-unknown/release/deps/num_bigint-1a7e1a893f30fd7c.rmeta: /Users/vb/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/lib.rs /Users/vb/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/macros.rs /Users/vb/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/bigint.rs /Users/vb/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/biguint.rs /Users/vb/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/algorithms.rs /Users/vb/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/monty.rs /Users/vb/dev/near5challenge/contract/target/wasm32-unknown-unknown/release/build/num-bigint-f5b2108bdf731b45/out/radix_bases.rs
+
+/Users/vb/dev/near5challenge/contract/target/wasm32-unknown-unknown/release/deps/libnum_bigint-1a7e1a893f30fd7c.rlib: /Users/vb/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/lib.rs /Users/vb/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/macros.rs /Users/vb/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/bigint.rs /Users/vb/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/biguint.rs /Users/vb/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/algorithms.rs /Users/vb/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/monty.rs /Users/vb/dev/near5challenge/contract/target/wasm32-unknown-unknown/release/build/num-bigint-f5b2108bdf731b45/out/radix_bases.rs
+
+/Users/vb/dev/near5challenge/contract/target/wasm32-unknown-unknown/release/deps/num_bigint-1a7e1a893f30fd7c.d: /Users/vb/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/lib.rs /Users/vb/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/macros.rs /Users/vb/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/bigint.rs /Users/vb/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/biguint.rs /Users/vb/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/algorithms.rs /Users/vb/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/monty.rs /Users/vb/dev/near5challenge/contract/target/wasm32-unknown-unknown/release/build/num-bigint-f5b2108bdf731b45/out/radix_bases.rs
+
+/Users/vb/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/lib.rs:
+/Users/vb/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/macros.rs:
+/Users/vb/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/bigint.rs:
+/Users/vb/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/biguint.rs:
+/Users/vb/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/algorithms.rs:
+/Users/vb/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.3.1/src/monty.rs:
+/Users/vb/dev/near5challenge/contract/target/wasm32-unknown-unknown/release/build/num-bigint-f5b2108bdf731b45/out/radix_bases.rs:
+
+# env-dep:OUT_DIR=/Users/vb/dev/near5challenge/contract/target/wasm32-unknown-unknown/release/build/num-bigint-f5b2108bdf731b45/out
