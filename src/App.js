@@ -5,7 +5,7 @@ import './global.css'
 
 import getConfig from './config'
 const { networkId } = getConfig(process.env.NODE_ENV || 'development')
-const IMAGE_LINK = 'https://bafybeif7e52f57uxxbr5hu7yu7ujolw3zmskzocqaq4q7tflrj2c6fdxqm.ipfs.dweb.link/'
+const IMAGE_LINK = 'https://bafybeidp3cx75pfks44cfudka5l4ydgasj76zrsgmyhyy3tu22qy3c25ea.ipfs.dweb.link/'
 export default function App() {
   // use React Hooks to store greeting in component state
   // const [greeting, set_greeting] = React.useState()
@@ -41,7 +41,7 @@ export default function App() {
   if (!window.walletConnection.isSignedIn()) {
     return (
       <main>
-        <h1>NEARvember challenge 5 (NFT)!</h1>
+        <h1>NEARvember challenge 5 - NFT minting frontent!</h1>
         <p>
           Please sign in.
         </p>
@@ -64,7 +64,7 @@ export default function App() {
             Hi
               {' '/* React trims whitespace around tags; insert literal space character when needed */}
               {window.accountId}!
-            <p>Like the rabbit my daughter has drawn? Mint it!</p>
+            <p>Mint exclusive NearMan NFT from Vetal =)</p>
 
             <form onSubmit={async event => {
               event.preventDefault()
